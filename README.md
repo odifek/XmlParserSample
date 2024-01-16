@@ -191,6 +191,8 @@ If we omit the `XmlValue` annotation in Author, we would have `<author value="Au
 ### Summary
 With the aid of xmlutil and some customisation, we are able to parse (and generate) openlyrics XML. 
 The good thing about this is that the solution is multiplatform - it works for both Android, iOS and desktop. Haven't tried this on Web/Wasm though. 
-To see the full code at work and how it is integrated in a compose multiplatform app, please see the sample project
+To see the full code at work and how it is integrated in a compose multiplatform app, [please see the sample project](https://github.com/odifek/XmlParserSample)
 I hope you liked the short article/recipe. 
 And please like, share and subscribe.
+
+Link to sample project: https://github.com/odifek/XmlParserSample

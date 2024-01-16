@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song createdIn="python3.6 and xmlwitch" modifiedDate="2018-07-29T23:59:59" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Amazing grace!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>John Newton</author>
+    </authors>
+    <songbooks>
+      <songbook entry="92" name="Watchman (HSCF)" />
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amazing grace! How sweet the sound
+That saved a wretch like me!
+I once was lost, but now am found;
+Was blind, but now I see.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Twas grace that taught my heart to fear,
+And grace my fears relieved;
+How precious did that grace appear
+The hour I first believed!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Through many dangers, toils and snares,
+I have already come;
+'Tis grace hath brought me safe thus far,
+And grace will lead me home.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yea, when this flesh and heart shall fail,
+And mortal life shall cease,
+I shall possess, within the veil,
+A life of joy and peace.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When we've been there ten thousand years,
+Bright shining as the sun,
+We've no less days to sing God's praise
+Than when we'd first begun.</lines>
+    </verse>
+  </lyrics>
+</song>
